@@ -7,4 +7,7 @@
 #include <sys/types.h>
 #include <unistd.h>
 
+#define PORT 8181
+#define NBYTES 511
+
 int main(void);
